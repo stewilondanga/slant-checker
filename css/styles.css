@@ -83,10 +83,11 @@ input:checked+.slider:before {
   transform: translateX(66px) rotate(90deg);
 }
 
-/*body.shabley {
+body.shabley {
   background-color: #ca3782;
 }
-label.hielene > span:before {
+
+/*label.hielene > span:before {
   border-radius: 25px;
   background-color: #da73a8;
 }
