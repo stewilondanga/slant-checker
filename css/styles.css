@@ -72,10 +72,11 @@ input:checked+.slider {
   max-width: 100%;
 }
 
-/*input:checked + .slider:hover {
+input:checked+.slider:hover {
   background-color: #d9c0d1;
 }
-input:checked + .slider:before {
+
+/*input:checked + .slider:before {
   border-radius: 25px;
   -webkit-transform: translateX(66px) rotate(90deg);
   -ms-transform: translateX(66px) rotate(90deg);
