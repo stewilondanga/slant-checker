@@ -87,12 +87,12 @@ body.shabley {
   background-color: #ca3782;
 }
 
-/*label.hielene > span:before {
+label.hielene>span:before {
   border-radius: 25px;
   background-color: #da73a8;
 }
 
-
+/*
 .containers {
   width: 520px;
   margin: 20px auto;
