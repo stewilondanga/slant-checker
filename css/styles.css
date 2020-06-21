@@ -65,13 +65,14 @@ body {
   transition: all 0.4s ease-in;
 }
 
-/*input:checked + .slider {
+input:checked+.slider {
   border-radius: 25px;
   background-color: #ece0e8;
   transform: rotate(15deg);
   max-width: 100%;
 }
-input:checked + .slider:hover {
+
+/*input:checked + .slider:hover {
   background-color: #d9c0d1;
 }
 input:checked + .slider:before {
